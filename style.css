@@ -1,0 +1,7 @@
+form {
+    border-width: 5px;
+    border-style: groove;
+    color: black;
+    width: fit-content;
+    background-color: aqua;
+}
